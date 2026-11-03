@@ -1,0 +1,59 @@
+Introduction to AI
+
+Definition of AI
+
+History and applications
+
+Foundations: philosophy, mathematics, economics, neuroscience, psychology, computer engineering, linguistics
+
+Intelligent Agents
+
+Agents and environments
+
+Rationality
+
+Structure of agents
+
+Types of agents: simple reflex, model-based, goal-based, utility-based, learning agents
+
+Problem-Solving
+
+Problem formulation
+
+State space representation
+
+Search strategies
+
+Uninformed search: BFS, DFS, Uniform-cost search
+
+Informed search: Greedy search, A* search
+
+Heuristics and admissibility
+
+Search in Complex Environments
+
+Local search algorithms
+
+Hill climbing, simulated annealing
+
+Genetic algorithms
+
+Adversarial search (games)
+
+Minimax, alpha-beta pruning
+
+Constraint Satisfaction Problems (CSPs)
+
+Definition of CSPs
+
+Variables, domains, constraints
+
+Backtracking search
+
+Constraint propagation (forward checking, arc consistency)
+
+Heuristics: MRV (Minimum Remaining Values), Degree heuristic, Least-constraining value
+
+Local search for CSPs
+
+Applications: map coloring, scheduling, Sudoku
